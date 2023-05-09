@@ -27,4 +27,4 @@ sr.reveal('.scroll-down', {delay:300, origin:'bottom'});
 sr.reveal('.what-box', {delay:300, origin:'bottom'});
 sr.reveal('.skill-icon', {delay:350, origin:'top'});
 sr.reveal('.project-box', {delay:350, origin:'bottom'});
-sr.reveal('.send', {delay:150, origin:'bottom'});
+sr.reveal('.send', {delay:150, origin:'top'});
