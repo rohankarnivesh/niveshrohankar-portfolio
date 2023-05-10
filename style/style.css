@@ -372,10 +372,10 @@ section{
     border: none;
     width: 200px;
 }
-/* .project-box:hover{
+.project-box:hover{
     cursor: pointer;
     transform: scale(1.1);
-} */
+}
 .project-box h3{
     font-size: 20px;
     font-weight: 200;
