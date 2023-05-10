@@ -15,7 +15,7 @@ var typed = new Typed(".typing",{
 
 const sr = ScrollReveal({
     distance: '65px',
-    duration: 2600,
+    duration: 1600,
     delay: 450, 
     reset: true
 });
