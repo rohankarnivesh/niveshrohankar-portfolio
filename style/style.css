@@ -493,9 +493,7 @@ section{
     }
     .sage{
         width: 270px;
-    }
-
-    
+    }    
 }
 @media (max-width: 1480px){
     section{
@@ -514,6 +512,9 @@ section{
     font-size: 40px;
     margin: 0 0 30px;
  }
+ .play-text h1 .typing{
+    font-size: 40px;
+}
  .play-text h4{
     font-size: 20px;
  }
@@ -524,6 +525,7 @@ section{
 }
 .pro-img img{
     width: 300px;
+    height: 200px;
 }
 .what-text h3{
     font-size: 20px;
@@ -581,6 +583,9 @@ section{
     .play-text h1{
         font-size: 35px;
         margin: 0 0 10px;
+    }
+    .play-text h1 .typing{
+        font-size: 35px;
     }
     .play-text a{
         font-size: 10px;
@@ -640,6 +645,7 @@ section{
     }
     .pro-img img{
         width: 250px;
+        height: 150px;
     }
     .project-box h3{
         font-size: 16px;
