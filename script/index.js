@@ -7,7 +7,7 @@ menu.onclick = () =>{
 };
 
 var typed = new Typed(".typing",{
-    strings:["","Developer", "Creator", "Designer", "Engineer", "Coder", "Gamer"],
+    strings:["","Developer", "Freelancer", "Creator", "Designer", "Engineer", "Gamer"],
     typeSpeed:150,
     BackSpeed:100,
     loop:true
