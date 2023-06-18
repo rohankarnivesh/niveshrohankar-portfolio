@@ -119,6 +119,7 @@ section{
     margin: 0 0 25px;
 }
 .play-text h1 .typing{
+    font-size: 1.90em;
     color: #7a7878;
 }
 .play-text h4{
@@ -466,6 +467,9 @@ section{
 .footer p{
     color: #868383;
     margin: 10px;
+}
+.shoot{
+    display: flex;
 }
 
 @media (max-width: 1550px){
