@@ -624,7 +624,7 @@ section{
         text-align: center;
     }
     .row{
-        grid-template-columns: 33% 33% 33% 33%;
+        grid-template-columns: 25% 25% 25% 25%;
     }
     .tech .skill-icon img{
         width: 35px;
