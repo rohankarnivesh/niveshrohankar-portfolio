@@ -57,7 +57,7 @@ body{
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(245.59deg, #7a7878 0%, #525151 28.53%, #2c2b2b 75.52%);
+    background: linear-gradient(245.59deg, #575757 0%, #4d4c4c 28.53%, #2c2b2b 75.52%);
     position: relative;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -248,7 +248,7 @@ section{
     height: auto;
     /* min-height: 100vh; */
     color: #f0f0f0;
-    background: linear-gradient(245.59deg, #7a7878 0%, #525151 28.53%, #2c2b2b 75.52%);
+    background: linear-gradient(245.59deg, #575757 0%, #4d4c4c 28.53%, #2c2b2b 75.52%);
 }
 .what h2{
     font-size: 40px;
@@ -337,7 +337,7 @@ section{
     align-items: center;
     color: #f0f0f0;
     /* min-height: 100vh; */
-    background: linear-gradient(245.59deg, #7a7878 0%, #525151 28.53%, #2c2b2b 75.52%);
+    background: linear-gradient(245.59deg, #575757 0%, #4d4c4c 28.53%, #2c2b2b 75.52%);
 }
 .projects h2{
     font-weight: 100;
