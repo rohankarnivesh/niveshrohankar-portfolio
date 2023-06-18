@@ -113,13 +113,13 @@ section{
     /* margin-bottom: 10px; */
 }
 .play-text h1{
-    font-size: 60px;
+    font-size: 58px;
     color: #f0f0f0;
     line-height: 1;
     margin: 0 0 25px;
 }
 .play-text h1 .typing{
-    font-size: 1.90rem;
+    font-size: 58px;
     color: #7a7878;
 }
 .play-text h4{
