@@ -375,7 +375,7 @@ section{
 }
 .project-box:hover{
     cursor: pointer;
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 .project-box h3{
     font-size: 20px;
